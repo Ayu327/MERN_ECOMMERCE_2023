@@ -11,7 +11,7 @@ import authRoute from './routes/authRoute.js'
 import categoryRoute from './routes/catliRoute.js'
 import productRoute from './routes/productRoute.js'
 import path from 'path'
-import {fileURLToPath} from 'url
+import {fileURLToPath} from 'url'
 
 //configure env
 dotenv.config();
